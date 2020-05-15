@@ -11,3 +11,5 @@ However the main technologies are indeed
 The Purpose of this project is to learn the concepts of Arrays and Objects in the shopping-cart section.
 **For this project, I used my own logic**. 
 **No Class Constructors are needed in this project** 
+
+Roman Khadka
